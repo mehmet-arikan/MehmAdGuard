@@ -6,6 +6,7 @@
 ! Expires: 4 days (update frequency)
 ! Homepage: 
 ! 
+www.ido.com.tr##[class*="boarding-pass-adver"]
 4gay.com##[class*="footmarg"]
 4gay.com##[class*="simaspt"]
 4gay.com##[class*="top"]
@@ -206,7 +207,7 @@ thegay.com##iframe[src*="poloptrex.com"]
 thegay.com##span:not(:empty):has-text(AD)
 thegay.com##span[class*="AD"]
 thegay.com##span[id*="AD"]
-tr.xhamster.com##.video-view-ads__container
+tr.xhamster2.com##.video-view-ads__container
 tr.xhamster.com##[class*="--bottom"]
 tr.xhamster.com##[class*="--middle"]
 tr.xhamster.com##[class*="--top"]
