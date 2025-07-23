@@ -1,12 +1,3 @@
-[Adblock Plus 2.0]
-! Version: 2.0
-! Title: CosmeticRules
-! Description: 
-! Last modified: 
-! Expires: 4 days (update frequency)
-! Homepage: 
-! 
-www.ido.com.tr##[class*="boarding-pass-adver"]
 4gay.com##[class*="footmarg"]
 4gay.com##[class*="simaspt"]
 4gay.com##[class*="top"]
@@ -207,7 +198,6 @@ thegay.com##iframe[src*="poloptrex.com"]
 thegay.com##span:not(:empty):has-text(AD)
 thegay.com##span[class*="AD"]
 thegay.com##span[id*="AD"]
-tr.xhamster2.com##.video-view-ads__container
 tr.xhamster.com##[class*="--bottom"]
 tr.xhamster.com##[class*="--middle"]
 tr.xhamster.com##[class*="--top"]
@@ -254,6 +244,7 @@ tr.xhamster.com##div.ts-interstitial-dsa-icon__text
 tr.xhamster.com##div.ts-interstitial-dsa-tooltip.ts-interstitial-dsa-tooltip_mobile
 tr.xhamster.com##div.underplayer-banner-tooltip
 tr.xhamster.com##li.thumb-list-mobile-item.thumb-list-mobile-item--widget
+tr.xhamster2.com##.video-view-ads__container
 ww1.hutgay.com##[class*="_video_content_wrapper"]
 ww1.hutgay.com##[class*="exo-video-slider"]
 ww1.hutgay.com##[class*="happy-"]
@@ -282,11 +273,10 @@ www.boy18tube.com##div.tags
 www.boyfriendtv.com##[class*="ad-wrap no-popup"]
 www.boyfriendtv.com##[class*="adblock no-popup"]
 www.boyfriendtv.com##[class*="clearfix"]
-www.boyfriendtv.com##[class*="news-line-item"]
 www.boyfriendtv.com##[class*="no-popup col-xs-6 col-sm-4 col-md-3 content-item video-item-wrapper"]
-www.boyfriendtv.com##[class*="playlist-detail-head-wrapper"]
-www.boyfriendtv.com##h3:has-text(Chat with LIVE models)
-www.boyfriendtv.com##h3:has-text(Chat with LIVE models) + a[href="/live-cam-models/"]
+www.boyfriendtv.com##div.ad-wrap
+www.boyfriendtv.com##div.adblock
+www.boyfriendtv.com##h3:nth-child(1)
 www.freepornvideos.xxx###ntv_c
 www.freepornvideos.xxx##div.center-spot
 www.freepornvideos.xxx##div.cookiesBanner
@@ -352,6 +342,7 @@ www.icegay.tv##span.b-cookie__close.f-right
 www.icegaytube.tv##div.b-mobile-spots.footer-spot
 www.icegaytube.tv##div.b-mobile-spots.header-spot.header-random
 www.icegaytube.tv##div.b-mobile-spots.under-video-spot.sub-video-random
+www.ido.com.tr##[class*="boarding-pass-adver"]
 www.igayporn.tv##[class*="b-cookie is-open"]
 www.igayporn.tv##[class*="b-mobile-random-links"]
 www.igayporn.tv##[class*="c-random"]
