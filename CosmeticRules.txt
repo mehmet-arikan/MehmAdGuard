@@ -1,3 +1,11 @@
+[Adblock Plus 2.0]
+! Version: 2.0
+! Title: CosmeticRules
+! Description: 
+! Last modified: 
+! Expires: 4 days (update frequency)
+! Homepage: 
+! 
 4gay.com##[class*="footmarg"]
 4gay.com##[class*="simaspt"]
 4gay.com##[class*="top"]
@@ -272,7 +280,6 @@ www.boy18tube.com##div.sub-video-random
 www.boy18tube.com##div.tags
 www.boyfriendtv.com##[class*="ad-wrap no-popup"]
 www.boyfriendtv.com##[class*="adblock no-popup"]
-www.boyfriendtv.com##[class*="clearfix"]
 www.boyfriendtv.com##[class*="no-popup col-xs-6 col-sm-4 col-md-3 content-item video-item-wrapper"]
 www.boyfriendtv.com##div.ad-wrap
 www.boyfriendtv.com##div.adblock
