@@ -450,6 +450,7 @@ xvidgay.com###exo-mobile-im-container-wrapper
 xvidgay.com###video-share
 xvidgay.com##div.a2a_kit.a2a_kit_size_32.a2a_default_style
 xvidgay.com##div.happy-footer-mobile
+||video.sacdnssedge.com^
 ||_im64._tcp.jpush.cn^
 ||_psis._udp.jpush.cn^
 ||0.datadog.pool.ntp.org^
