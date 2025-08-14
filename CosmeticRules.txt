@@ -6,6 +6,11 @@
 ! Expires: 4 days (update frequency)
 ! Homepage: 
 ! 
+##.random-td
+##[class*="mgp_overlayContainer"]
+##[data-role*="video-controls"]
+##[id*="globalCookieBanner"]
+##[id*="modalWrapMTubes"]
 4gay.com##[class*="footmarg"]
 4gay.com##[class*="simaspt"]
 4gay.com##[class*="top"]
@@ -206,6 +211,7 @@ thegay.com##iframe[src*="poloptrex.com"]
 thegay.com##span:not(:empty):has-text(AD)
 thegay.com##span[class*="AD"]
 thegay.com##span[id*="AD"]
+tr.xhamster.com##.video-view-ads__container
 tr.xhamster.com##[class*="--bottom"]
 tr.xhamster.com##[class*="--middle"]
 tr.xhamster.com##[class*="--top"]
@@ -253,6 +259,53 @@ tr.xhamster.com##div.ts-interstitial-dsa-tooltip.ts-interstitial-dsa-tooltip_mob
 tr.xhamster.com##div.underplayer-banner-tooltip
 tr.xhamster.com##li.thumb-list-mobile-item.thumb-list-mobile-item--widget
 tr.xhamster2.com##.video-view-ads__container
+tr.xhamster2.com##[class*="--bottom"]
+tr.xhamster2.com##[class*="--middle"]
+tr.xhamster2.com##[class*="--top"]
+tr.xhamster2.com##[class*="-earn"]
+tr.xhamster2.com##[class*="after-pager"]
+tr.xhamster2.com##[class*="after"]
+tr.xhamster2.com##[class*="cams-wgt.underplayer.no-update"]
+tr.xhamster2.com##[class*="container-f57ba"]
+tr.xhamster2.com##[class*="cookiesAnnounce"]
+tr.xhamster2.com##[class*="dialog-mobile-container__content null"]
+tr.xhamster2.com##[class*="div.mobile-"]
+tr.xhamster2.com##[class*="false"]
+tr.xhamster2.com##[class*="footer-wrapper xh-content-visibility-auto"]
+tr.xhamster2.com##[class*="insideVideoList"]
+tr.xhamster2.com##[class*="insideVideoListUnordered"]
+tr.xhamster2.com##[class*="item-container"]
+tr.xhamster2.com##[class*="itemContainer"]
+tr.xhamster2.com##[class*="layout-video-player__order"]
+tr.xhamster2.com##[class*="mobile-cd8ff container-cd8ff"]
+tr.xhamster2.com##[class*="premium-n-overlay"]
+tr.xhamster2.com##[class*="premium"]
+tr.xhamster2.com##[class*="prePopunderLabel"]
+tr.xhamster2.com##[class*="tab layout-video-player__order"]
+tr.xhamster2.com##[class*="tab.layout-video-player__order"]
+tr.xhamster2.com##[class*="thumb-image-container__sprite"]
+tr.xhamster2.com##[class*="thumbsScrollable"]
+tr.xhamster2.com##[class*="top.no-update"]
+tr.xhamster2.com##[class*="traffic"]
+tr.xhamster2.com##[class*="under-player-banner-wrapper"]
+tr.xhamster2.com##[class*="video-view-ads video-view-ads--full-page"]
+tr.xhamster2.com##[class*="video-view-ads__banner-container"]
+tr.xhamster2.com##[class*="video-view-ads__container"]
+tr.xhamster2.com##[class*="video-view-ads"]
+tr.xhamster2.com##[class*="vpn-geo-picker-container"]
+tr.xhamster2.com##[class*="widget"]
+tr.xhamster2.com##[class*="xplayer-ads-block"]
+tr.xhamster2.com##[data-role*="bottom-popup-ads"]
+tr.xhamster2.com##[data-role*="promo-messages-unpin"]
+tr.xhamster2.com##[data-role*="promo-messages-wrapper"]
+tr.xhamster2.com##[id*="credential_picker_iframe"]
+tr.xhamster2.com###type_categories_list
+tr.xhamster2.com##a.auto-generated-banner
+tr.xhamster2.com##div.earn-cb57f
+tr.xhamster2.com##div.ts-interstitial-dsa-icon__text
+tr.xhamster2.com##div.ts-interstitial-dsa-tooltip.ts-interstitial-dsa-tooltip_mobile
+tr.xhamster2.com##div.underplayer-banner-tooltip
+tr.xhamster2.com##li.thumb-list-mobile-item.thumb-list-mobile-item--widget
 ww1.hutgay.com##[class*="_video_content_wrapper"]
 ww1.hutgay.com##[class*="exo-video-slider"]
 ww1.hutgay.com##[class*="happy-"]
