@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 2.0
-! Title: DomainRules
+! Title: Rules
 ! Description: 
 ! Last modified: 
 ! Expires: 4 days (update frequency)
