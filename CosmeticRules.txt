@@ -6,6 +6,7 @@
 ! Expires: 4 days (update frequency)
 ! Homepage: 
 ! 
+lulustream.com##[id*="adbd"]
 4gay.com##[class*="footmarg"]
 4gay.com##[class*="simaspt"]
 4gay.com##[class*="top"]
