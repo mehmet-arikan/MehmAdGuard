@@ -6,28 +6,33 @@
 ! Expires: 4 days (update frequency)
 ! Homepage: 
 ! 
-4gay.com##[class*=“footmarg”]
-4gay.com##[class*=“simaspt”]
-4gay.com##[class*=“top”]
+4gay.com##[class*="footmarg"]
+4gay.com##[class*="simaspt"]
+4gay.com##[class*="top"]
 abgay.com##div.footer
 abgay.com##p.seo
 abgay.com##section:nth-child(3)
-cockdude.com##[class*=“archive-description container container-lg”]
-cockdude.com##[class*=“hero”]
-cockdude.com##[class*=“mobile-pad-head”]
-cockdude.com##[class*=“single-video-comments”]
-cockdude.com##[id*=“before-list-boxes-mobile-singl”]
-cockdude.com##[id*=“beside-video-ver2”]
-cockdude.com##[id*=“box-txtovka-con”]
-cockdude.com##[id*=“inside-video-boxes-mobile2”]
-cockdude.com##[id*=“native-boxes-2-ver2”]
-cockdude.com##[id*=“related-boxes-footer-ver2”]
-cockdude.com##[id*=“special-block”]
+cockdude.com##.hero
+cockdude.com##[class*="archive-description container container-lg"]
+cockdude.com##[class*="hero"]
+cockdude.com##[class*="mobile-pad-head"]
+cockdude.com##[class*="single-video-comments"]
+cockdude.com##[id*="after-boxes-ver2"]
+cockdude.com##[id*="before-list-boxes-mobile-singl"]
+cockdude.com##[id*="beside-video-ver2"]
+cockdude.com##[id*="box-txtovka-con"]
+cockdude.com##[id*="inside-video-boxes-mobile2"]
+cockdude.com##[id*="native-boxes-2-ver2"]
+cockdude.com##[id*="related-boxes-footer-ver2"]
+cockdude.com##[id*="special-block"]
 cockdude.com###before-list-boxes-mobile-singl
 cockdude.com###before-list-boxes-mobile-singl_2
+cockdude.com###before-list-boxes-mobile-singl_tblt
+cockdude.com###box-txtovka-con
 cockdude.com###comment_link
 cockdude.com###inside-video-boxes-mobile2
 cockdude.com###inside-video-boxes-mobile2_2
+cockdude.com###inside-video-boxes-mobile2_tblt
 cockdude.com###native-boxes-2-ver2
 cockdude.com##div.actors-footer
 cockdude.com##div.alrt-ver2
@@ -35,26 +40,34 @@ cockdude.com##div.archive-description.container.container-lg
 cockdude.com##div.form-group.comment-form-comment
 cockdude.com##div.tags-footer
 cockdude.com##div.tags-list.single-vide
-cockdude.com##div[style*=“text-align: center”][style*=“background: rgb(205, 51, 51)”]:has-text(/Please, disable Adblock/)
+cockdude.com##div[style*="text-align: center"][style*="background: rgb(205, 51, 51)"]:has-text(/Please, disable Adblock/)
 cockdude.com##h2
 cockdude.com##p
 d3ward.github.io##.adbox.banner_ads.adsbox
 d3ward.github.io##.textads
 dood.la##div.placeHolder
-eporner.com##[id*=“admobilefoot”]
-eporner.com##[id*=“admobilemiddle”]
-eporner.com##[id*=“admobileoutstream”]
-eporner.com##[id*=“admobiletop”]
-eporner.com##[id*=“commentdiv”]
+dsvplay.com###ics
+eporner.com##[id*="admobilefoot"]
+eporner.com##[id*="admobilemiddle"]
+eporner.com##[id*="admobileoutstream"]
+eporner.com##[id*="admobiletop"]
+eporner.com##[id*="commentdiv"]
 eporner.com###vidcontent > div:last-child
-fxggxt.com##[class*=“happy-under-player-mobile”]
-fxggxt.com##[class*=“happy-under-player”]
+f95zone.to##a[href^="https://ads.trafficjunky.net/"]
+fxggxt.com##[class*="happy-under-player-mobile"]
+fxggxt.com##[class*="happy-under-player"]
 fxggxt.com###video-share
 fxggxt.com##div.happy-footer-mobile
 fxggxt.com##div.placeHolder
-gayck.com##[class*=“footmarg”]
-gayck.com##[class*=“simaspt”]
-gayck.com##[class*=“top”]
+gayck.com##[class*="footmarg"]
+gayck.com##[class*="simaspt"]
+gayck.com##[class*="top"]
+gayporn.com##[class*="footer-links-container mb-5 mt-3"]
+gayporn.com##[class*="grid-comments"]
+gayporn.com##[class*="grid-gap"]
+gayporn.com##[class*="grid-native"]
+gayporn.com##[class="grid-banner"]
+gayporn.com##div[data-attr="modal-cookie"]
 gayxps.com###main > div.contents:first-child > center:first-child
 gayxps.com##div.contener:nth-child(33) > section.promo-sec:last-child > div.wrapper > div.row
 github.io##.adbox.banner_ads.adsbox
@@ -65,16 +78,16 @@ hornet.com##.ad-unit__remove-ads
 hornet.com##.ad-unit__remove-ads-button
 hornet.com##.is-centered
 hornet.com##.is-mobileOnly
-hornet.com##[class*=“conversations-list__ad-space”]
-hornet.com##[class*=“disclaimer”]
-hornet.com##[class*=“members-grid__ad”]
+hornet.com##[class*="conversations-list__ad-space"]
+hornet.com##[class*="disclaimer"]
+hornet.com##[class*="members-grid__ad"]
 hornet.com##iframe[data-google-query-id]
-lethimhit.com##[class*=“adde_modal-overlay active”]
-lethimhit.com##[class*=“adde_modal-overlay”]
-lethimhit.com##[class*=“happy-under-player-mobile”]
-lethimhit.com##[class*=“widget widget_block”]
-lethimhit.com##[id*=“video-share”]
-lethimhit.com##[id*=“wp_widget_wpchaturbatewidget-4”]
+lethimhit.com##[class*="adde_modal-overlay active"]
+lethimhit.com##[class*="adde_modal-overlay"]
+lethimhit.com##[class*="happy-under-player-mobile"]
+lethimhit.com##[class*="widget widget_block"]
+lethimhit.com##[id*="video-share"]
+lethimhit.com##[id*="wp_widget_wpchaturbatewidget-4"]
 lethimhit.com###adde_modal-modal
 lethimhit.com###adde_modal-overlay
 lethimhit.com###block-10
@@ -92,21 +105,26 @@ lethimhit.com##h2.widget-title
 lethimhit.com##img.aligncenter.loaded
 lethimhit.com##img.aligncenter.loading
 lethimhit.com##img.loading
-manporn.xxx##[class*=“adv-wide “]
-manporn.xxx##[class*=“block-related-AD”]
-manporn.xxx##[class*=“mainmenu ways brd”]
+likegay.net##[class*="page__comments"]
+manporn.xxx##.top-banner
+manporn.xxx##[class*="adv-wide "]
+manporn.xxx##[class*="block-related-AD"]
+manporn.xxx##[class*="mainmenu ways brd"]
 manporn.xxx##div.adv-head
 manporn.xxx##div.adv-wide
 manporn.xxx##div.mob-player-adv
 manporn.xxx##div.top-banner
 manporn.xxx##span.adstext
+mature.community##img[width="300"]
+milf.community##img[width="300"]
+milf.plus##img[width="300"]
 mrgay.com##.fah-btn__label
-mrgay.com##[class*=”__bai-container __bai-show”]
-mrgay.com##[class*=”__inst-container __inst-container__mobile”]
-mrgay.com##[class*=“jw-controls jw-reset”]
-mrgay.com##[class*=“video-info__items”]
-mrgay.com##[id*=“fhvids”]
-mrgay.com##[id*=“rrfffrdfmdq”]
+mrgay.com##[class*="__bai-container __bai-show"]
+mrgay.com##[class*="__inst-container __inst-container__mobile"]
+mrgay.com##[class*="jw-controls jw-reset"]
+mrgay.com##[class*="video-info__items"]
+mrgay.com##[id*="fhvids"]
+mrgay.com##[id*="rrfffrdfmdq"]
 mrgay.com###app > div.device-phone.menu-small > div.app__wrapper > div.footer:last-child
 mrgay.com###keffokgoggg
 mrgay.com###xmppmxdmndz
@@ -121,63 +139,80 @@ mrgay.com##div.headline
 mrgay.com##div.seo
 mrgay.com##div.video-info__item
 mrgay.com##div.wrapper.seo
-mrgay.com##div[class*=“comments”]
+mrgay.com##div[class*="comments"]
 mrgay.com##div#rrfffrdfmdq
 mrgay.com##h2
 mrgay.com##p
 mrgay.com##section
 mrgay.com##section[data-v-822bdeb9]
 mrgay.com##span.fah-btn__label
-mrgay.tube##[class*=“fah-btn nopop”]
-mrgay.tube##[class*=“header__item”]
-mrgay.tube##[class*=“headline”]
-mrgay.tube##[class*=“seo”]
-mrgay.tube##[id*=“fhvids”]
-mrgay.tube##[id*=“rrfffrdfmdq”]
-mundoxgay.com##[class*=“happy-header-mobile”]
-mundoxgay.com##[class*=“happy-under-player-mobile”]
+mrgay.tube##[class*="fah-btn nopop"]
+mrgay.tube##[class*="header__item"]
+mrgay.tube##[class*="headline"]
+mrgay.tube##[class*="seo"]
+mrgay.tube##[id*="fhvids"]
+mrgay.tube##[id*="rrfffrdfmdq"]
+mundoxgay.com##[class*="happy-header-mobile"]
+mundoxgay.com##[class*="happy-under-player-mobile"]
 mundoxgay.com###colophon > div.row > div.four-columns-footer:nth-child(2)
 mundoxgay.com###colophon > div.row > div.happy-footer-mobile:first-child
 mundoxgay.com###comments
 mundoxgay.com###cookie-bar
 mundoxgay.com###sidebar > div.happy-sidebar:first-child
 mundoxgay.com###video-share
-playvids.com##[class*=“promo-advert”]
+nl.tr.xhamster.com.com##div._33e1327a._884ac141
+nl.tr.xhamster.com.com##div.earn-cb57f
+nl.tr.xhamster.com.com##ul[data-role] > div
+playvids.com##[class*="promo-advert"]
 playvids.com##div.wrapper:nth-child(2) > div.content:nth-child(2) > div.promo-advert:first-child
 pornxp.com##.overlay
-pornxp.com##[class*=“desc_show”]
-pornxp.com##[class*=“sp_results_m”]
-pornxp.com##[class*=“sp_top_m”]
-pornxp.com##[data-element*=“overlay”]
-pornxp.com##[id*=“desc”]
+pornxp.com##[class*="desc_show"]
+pornxp.com##[class*="sp_results_m"]
+pornxp.com##[class*="sp_top_m"]
+pornxp.com##[data-element*="overlay"]
+pornxp.com##[id*="desc"]
 pornxp.com###desc
 pornxp.com##div.sp_results_m
 pornxp.com##div.sp_top_m
 pornxp.com##p
-pornxp.stream##[class*=“player_right”]
-pornxp.stream##[class*=“Prip_video_content_wrapper”]
+pornxp.stream##[class*="player_right"]
+pornxp.stream##[class*="Prip_video_content_wrapper"]
 pornxp.stream###desc
 pornxp.stream##div.placeHolder
 pornxp.stream##div.player_details
 pornxp.stream##div.sp_results_m
 pornxp.stream##div.sp_top_m
 pornxp.stream##p
-thegay.com##[class*=”_direct_underplayer_mobile”]
-thegay.com##[class*=“afgfvgghghffaa”]
-thegay.com##[class*=“fah-btn nopop”]
-thegay.com##[class*=“gfeihiiaveghghffaa”]
-thegay.com##[class*=“jmoknkklsojnjnmmllnkamklnl”]
-thegay.com##[class*=“klnojnnlnlllkk”]
-thegay.com##[class*=“lokkxlaxjammlmlnnl”]
-thegay.com##[class*=“nlsxlxxkjsnlnlllkk”]
-thegay.com##[class*=“onxaammlmlnnl”]
-thegay.com##[class*=“pyuqqqqwqwyyb”]
-thegay.com##[class*=“qtoiqiivioqqqqttvv”]
-thegay.com##[class*=“seo”]
-thegay.com##[class*=“video-tube-friends”]
-thegay.com##[class*=“videos-tube-friends”]
-thegay.com##[class*=“vtqjiqqqqqttvv”]
-thegay.com##[class*=“zbuggffmfmbbu”]
+pstargif.com##a[href*="?ats="]
+redtube.com##[href*="data:"]
+redtube.com##[style*="base64"]
+redtube.com###main-container > .abovePlayer
+redtube.com##a[href^="https://ads.trafficjunky.net/"]
+redtube.net###main-container > .abovePlayer
+spankbang.com##a[href*="?ats="]
+spankbang.com##a[href^="http://ads.trafficjunky.net/"]
+sxyprn.com##a[href*="?ats="]
+thegay.com##[class*="_direct_underplayer_mobile"]
+thegay.com##[class*="afgfvgghghffaa"]
+thegay.com##[class*="fah-btn nopop"]
+thegay.com##[class*="gfeihiiaveghghffaa"]
+thegay.com##[class*="jmoknkklsojnjnmmllnkamklnl"]
+thegay.com##[class*="jw-custom-btn jw-hardlink-btn nopop"]
+thegay.com##[class*="jw-hardlink-inner"]
+thegay.com##[class*="jw-title jw-reset-text"]
+thegay.com##[class*="klnojnnlnlllkk"]
+thegay.com##[class*="lokkxlaxjammlmlnnl"]
+thegay.com##[class*="nlsxlxxkjsnlnlllkk"]
+thegay.com##[class*="nrhfuffozhnunurroo"]
+thegay.com##[class*="onxaammlmlnnl"]
+thegay.com##[class*="orntznnunurroo"]
+thegay.com##[class*="pyuqqqqwqwyyb"]
+thegay.com##[class*="qtoiqiivioqqqqttvv"]
+thegay.com##[class*="seo"]
+thegay.com##[class*="video-tube-friends"]
+thegay.com##[class*="videos-tube-friends"]
+thegay.com##[class*="vtqjiqqqqqttvv"]
+thegay.com##[class*="zbuggffmfmbbu"]
 thegay.com###app > div.content:nth-child(3) > div > div.aimzizzromaiaiiirr:nth-child(3)
 thegay.com###app > div.content:nth-child(3) > div > div.bmquuuuflqbubummff:nth-child(3)
 thegay.com###app > div.content:nth-child(3) > div > div.fmbzlbbubummff:nth-child(5)
@@ -194,71 +229,60 @@ thegay.com##div.kwyplyybybwwkk
 thegay.com##div.kwyplyybybwwkkbuepqqeyyb
 thegay.com##div.tags.tags–seo
 thegay.com##div.yweubuukleybybwwkk
-thegay.com##div[class*=“kwyplyybybwwkk”]
-thegay.com##div[class*=“ybybwwkk”]
-thegay.com##div[class*=“yweubuukleybybwwkk”]
-thegay.com##div[id*=“ablock-notify”]
-thegay.com##div[id*=“byqkqqq”]
-thegay.com##div[id=“ablock-notify”]
-thegay.com##iframe[src*=“creative.mnaspm.com”]
-thegay.com##iframe[src*=“engine.camconnections.live”]
-thegay.com##iframe[src*=“poloptrex.com”]
+thegay.com##div[class*="kwyplyybybwwkk"]
+thegay.com##div[class*="ybybwwkk"]
+thegay.com##div[class*="yweubuukleybybwwkk"]
+thegay.com##div[id*="ablock-notify"]
+thegay.com##div[id*="byqkqqq"]
+thegay.com##div[id="ablock-notify"]
+thegay.com##iframe[src*="creative.mnaspm.com"]
+thegay.com##iframe[src*="engine.camconnections.live"]
+thegay.com##iframe[src*="poloptrex.com"]
 thegay.com##span:not(:empty):has-text(AD)
-thegay.com##span[class*=“AD”]
-thegay.com##span[id*=“AD”]
-tr.xhamster.com##[class*=”-earn”]
-tr.xhamster.com##[class*=”–bottom”]
-tr.xhamster.com##[class*=”–middle”]
-tr.xhamster.com##[class*=”–top”]
-tr.xhamster.com##[class*=“after-pager”]
-tr.xhamster.com##[class*=“after”]
-tr.xhamster.com##[class*=“cams-wgt.underplayer.no-update”]
-tr.xhamster.com##[class*=“container-f57ba”]
-tr.xhamster.com##[class*=“cookiesAnnounce”]
-tr.xhamster.com##[class*=“dialog-mobile-container__content null”]
-tr.xhamster.com##[class*=“div.mobile-”]
-tr.xhamster.com##[class*=“false”]
-tr.xhamster.com##[class*=“footer-wrapper xh-content-visibility-auto”]
-tr.xhamster.com##[class*="hidden"]
-tr.xhamster.com##[class*=“insideVideoList”]
-tr.xhamster.com##[class*=“insideVideoListUnordered”]
-tr.xhamster.com##[class*=“item-container”]
-tr.xhamster.com##[class*=“itemContainer”]
-tr.xhamster.com##[class*=“layout-video-player__order”]
-tr.xhamster.com##[class*="loading-"]
-tr.xhamster.com##[class*=“mobile-cd8ff container-cd8ff”]
-tr.xhamster.com##[class*=“premium-n-overlay”]
-tr.xhamster.com##[class*=“premium”]
-tr.xhamster.com##[class*=“prePopunderLabel”]
-tr.xhamster.com##[class*="root-b7566 desktop-b7566 insideVideoList-b7566 thumbsScrollable-b7566"]
-tr.xhamster.com##[class*=“tab layout-video-player__order”]
-tr.xhamster.com##[class*=“tab.layout-video-player__order”]
-tr.xhamster.com##[class*=“thumb-image-container__sprite”]
-tr.xhamster.com##[class*=“thumbsScrollable”]
-tr.xhamster.com##[class*=“top.no-update”]
-tr.xhamster.com##[class*=“traffic”]
-tr.xhamster.com##[class*=“under-player-banner-wrapper”]
-tr.xhamster.com##[class*=“video-view-ads video-view-ads–full-page”]
-tr.xhamster.com##[class*=“video-view-ads__banner-container”]
-tr.xhamster.com##[class*=“video-view-ads__container”]
-tr.xhamster.com##[class*=“video-view-ads”]
-tr.xhamster.com##[class*=“vpn-geo-picker-container”]
-tr.xhamster.com##[class*=“widget”]
-tr.xhamster.com##[class*=“xplayer-ads-block”]
-tr.xhamster.com##[data-role*=“bottom-popup-ads”]
-tr.xhamster.com##[data-role*=“promo-messages-unpin”]
-tr.xhamster.com##[data-role*=“promo-messages-wrapper”]
-tr.xhamster.com##[id*=“credential_picker_iframe”]
+thegay.com##span[class*="AD"]
+thegay.com##span[id*="AD"]
+tr.xhamster.com##._33fd4256
+tr.xhamster.com##._57183998
+tr.xhamster.com##.footer-wrapper
+tr.xhamster.com##.layoutPage>aside
+tr.xhamster.com##.thumb-list-mobile-item--widget
+tr.xhamster.com##.video-view-ads
+tr.xhamster.com##[class*="--bottom"]
+tr.xhamster.com##[class*="--middle"]
+tr.xhamster.com##[class*="--top"]
+tr.xhamster.com##[class*="after-pager"]
+tr.xhamster.com##[class*="container-f57ba"]
+tr.xhamster.com##[class*="cookiesAnnounce"]
+tr.xhamster.com##[class*="footer-wrapper"]
+tr.xhamster.com##[class*="popup"]
+tr.xhamster.com##[class*="premium"]
+tr.xhamster.com##[class*="prePopunderLabel"]
+tr.xhamster.com##[class*="sp-l-tab layout-video-player__order"]
+tr.xhamster.com##[class*="thumbContainer-"]
+tr.xhamster.com##[class*="under-player-banner-wrapper"]
+tr.xhamster.com##[class*="video-view-ads"]
+tr.xhamster.com##[class*="widget"]
+tr.xhamster.com##[data-role*="bottom-popup-ads"]
+tr.xhamster.com##[data-role*="promo-messages"]
+tr.xhamster.com##[id*="credential_picker_iframe"]
 tr.xhamster.com###type_categories_list
 tr.xhamster.com##a.auto-generated-banner
-tr.xhamster.com##div.earn-cb57f
-tr.xhamster.com##div.ts-interstitial-dsa-icon__text
-tr.xhamster.com##div.ts-interstitial-dsa-tooltip.ts-interstitial-dsa-tooltip_mobile
-tr.xhamster.com##div.underplayer-banner-tooltip
-tr.xhamster.com##li.thumb-list-mobile-item.thumb-list-mobile-item–widget
-ww1.hutgay.com##[class*=”_video_content_wrapper”]
-ww1.hutgay.com##[class*=“exo-video-slider”]
-ww1.hutgay.com##[class*=“happy-”]
+tr.xhamster.com##aside[data-role="vrbd-lwtop"]
+tr.xhamster.com##ul[data-role] > div
+tube8.com##[href*="data:"]
+tube8.com##[style*="base64"]
+tube8.com##a[href*="?ats="]
+tube8.com##img[src*="blob:" i]:not(video)
+tube8.es##[href*="data:"]
+tube8.es##[style*="base64"]
+tube8.es##img[src*="blob:" i]:not(video)
+tube8.fr##[href*="data:"]
+tube8.fr##[style*="base64"]
+tube8.fr##img[src*="blob:" i]:not(video)
+tube8vip.com##a[href*="?ats="]
+ww1.hutgay.com##[class*="_video_content_wrapper"]
+ww1.hutgay.com##[class*="exo-video-slider"]
+ww1.hutgay.com##[class*="happy-"]
 ww1.hutgay.com###colophon
 ww1.hutgay.com###gAboksma_exo_cta_text_box
 ww1.hutgay.com###hfZ2YNfc_exo_cta_text_box
@@ -271,24 +295,52 @@ ww1.hutgay.com##div.happy-under-player-mobile
 ww1.hutgay.com##div.hfZ2YNfc_video_content_wrapper
 ww1.hutgay.com##div.ilhn0nBm_video_content_wrapper
 ww1.hutgay.com##div.uR7Fefay_video_content_wrapper
-ww1.hutgay.com##div[class*=“happy-”]
-www.boy18tube.com##[class*=“leaderboard-spot”]
-www.boy18tube.com##[class*=“mobile-random footer-spot”]
-www.boy18tube.com##[class*=“sub-video-random”]
+ww1.hutgay.com##div[class*="happy-"]
+www.4gay.com##[class*="footer-margin"]
+www.4gay.com##[class*="sponsor"]
+www.4gay.com##[id*="inp_iframe-4gm-nat-vip"]
+www.4gay.com##[id*="list_videos_related_videos_filter_list"]
+www.4gay.com##p.text
+www.allboner.com##[align*="center"]
+www.allboner.com##[id*="commentView"]
+www.allboner.com##[id*="cookieNotice"]
+www.boy18tube.com##.header-spot
+www.boy18tube.com##.placeholder
+www.boy18tube.com##.sub-video-random
+www.boy18tube.com##[class*="leaderboard-spot"]
+www.boy18tube.com##[class*="mobile-random footer-spot"]
+www.boy18tube.com##[class*="random-td"]
+www.boy18tube.com##[class*="sub-video-random"]
+www.boy18tube.com###ticker
 www.boy18tube.com##div.b-cookie__body.clearfix
 www.boy18tube.com##div.b-cookie-mess.f-left
 www.boy18tube.com##div.mobile-random.footer-spot.js-footer-random
 www.boy18tube.com##div.mobile-random.header-spot.header-random
 www.boy18tube.com##div.sub-video-random
 www.boy18tube.com##div.tags
+www.boyfriendtv.com##.adblock
+www.boyfriendtv.com##.container>h3
 www.boyfriendtv.com##.fh-line.fh-margin
-www.boyfriendtv.com##[class*=“ad-wrap no-popup”]
-www.boyfriendtv.com##[class*=“adblock no-popup”]
-www.boyfriendtv.com##[class*=“no-popup col-xs-6 col-sm-4 col-md-3 content-item video-item-wrapper”]
-www.boyfriendtv.com##[id*=“limitedExperienceBanner”]
+www.boyfriendtv.com##.tags-box
+www.boyfriendtv.com##[class*="ad-wrap no-popup"]
+www.boyfriendtv.com##[class*="ads-block-rightside"]
+www.boyfriendtv.com##[class*="media-item no-popup"]
+www.boyfriendtv.com##[class*="no-popup col-xs-6 col-sm-4 col-md-3 content-item video-item-wrapper"]
+www.boyfriendtv.com##[id*="limitedExperienceBanner"]
+www.boyfriendtv.com###combinedBanner
+www.boyfriendtv.com###credential_picker_iframe
+www.boyfriendtv.com###limitedExperienceBanner
+www.boyfriendtv.com###wgt-360
+www.boyfriendtv.com##div:nth-of-type(4) > h3
 www.boyfriendtv.com##div.ad-wrap
 www.boyfriendtv.com##div.adblock
+www.boyfriendtv.com##div.no-popup.col-xs-6.col-sm-4.col-md-3.content-item.video-item-wrapper
 www.boyfriendtv.com##h3:nth-child(1)
+www.freepornvideos.xxx##.cookiesBanner
+www.freepornvideos.xxx##.ft
+www.freepornvideos.xxx##.right
+www.freepornvideos.xxx##.sponsor
+www.freepornvideos.xxx##.top_player_sponsor
 www.freepornvideos.xxx###ntv_c
 www.freepornvideos.xxx##div.center-spot
 www.freepornvideos.xxx##div.cookiesBanner
@@ -303,7 +355,13 @@ www.freepornvideos.xxx##div.tags
 www.freepornvideos.xxx##div.text
 www.freepornvideos.xxx##div.video-right-top
 www.freepornvideos.xxx##span.description
-www.gayck.com##[class*=“inp__wrapper”]
+www.gayck.com##[class*="empty-content"]
+www.gayck.com##[class*="footmarg"]
+www.gayck.com##[class*="inp__wrapper"]
+www.gayck.com##[id*="inp_iframe-gcm-nat-vip"]
+www.gayck.com###inp_iframe-gcm-4gnat
+www.gayck.com##div.headline
+www.gayck.com##h2
 www.gaydudesfucking.com##a.welcome-inner
 www.gaydudesfucking.com##div.bn
 www.gaydudesfucking.com##div.info-holder
@@ -311,11 +369,16 @@ www.gaydudesfucking.com##div.mobile_above_player
 www.gaydudesfucking.com##div.mobile-box
 www.gaydudesfucking.com##div.undervideo
 www.gaydudesfucking.com##p.text-tag
+www.gayfuckporn.com##.b-tags
+www.gayfuckporn.com##.c-random
+www.gayfuckporn.com##.header-spot
+www.gayfuckporn.com##.mobile-random-wrapper
+www.gayfuckporn.com##.sub-video-random
+www.gayfuckporn.com##[class*="b-thumb-item js-thumb-item js-thumb placeholder"]
 www.gayfuckporn.com##[class*="c-random"]
-www.gayfuckporn.com##[class*=“c-random”]
-www.gayfuckporn.com##[class*=“cookies”]
-www.gayfuckporn.com##[class*=“footer”]
-www.gayfuckporn.com##[class*=“header-spot”]
+www.gayfuckporn.com##[class*="cookies"]
+www.gayfuckporn.com##[class*="footer"]
+www.gayfuckporn.com##[class*="header-spot"]
 www.gayfuckporn.com##a.top-link
 www.gayfuckporn.com##div.ae-player__itv-spot
 www.gayfuckporn.com##div.ae-player__itv-title
@@ -324,21 +387,45 @@ www.gayfuckporn.com##div.b-tags
 www.gayfuckporn.com##div.mobile-random.footer-spot
 www.gayfuckporn.com##div.mobile-random.header-spot.header-random
 www.gayfuckporn.com##div.sub-video-random
-www.gayfuckporn.com##div[class*=“cookies”]
-www.gayfuckporn.com##div[class*=“footer”]
-www.gayfuckporn.com##div[class*=“header-spot”]
+www.gayfuckporn.com##div[class*="cookies"]
+www.gayfuckporn.com##div[class*="footer"]
+www.gayfuckporn.com##div[class*="header-spot"]
 www.gayfuckporn.com##li.letter
 www.gayporno.tv##div.b-mobile-spots.footer-spot
 www.gayporno.tv##div.mobile-random.header-spot.header-random
 www.gayporno.tv##div.mobile-random.sub-video-spot.sub-video-random
+www.gaypornplanet.com##.b-mobile-random-links
+www.gaypornplanet.com##.b-video-container__random-column
+www.gaypornplanet.com##.b-video-container__undervideo
+www.gaypornplanet.com##.header-spot
+www.gaypornplanet.com##.mobile-random-wrapper
+www.gaypornplanet.com##.placeholder
+www.gaypornplanet.com##[class*="b-thumb-item js-thumb-item js-thumb placeholder"]
+www.gaypornplanet.com##[class*="mobile-random header-spot header-random"]
+www.gaypornplanet.com##div.b-video-container__random-column
+www.gaypornplanet.com##div.b-video-container__undervideo.sub-video-random
 www.gaypornplanet.com##div.mobile-random
+www.gaypornplanet.com##div.mobile-random.header-spot.header-random
+www.gayvids.tv##[class*="ribbonban"]
+www.gayvids.tv##div.card
+www.gayvids.tv##div.footer-margin
+www.gayvids.tv##div.headline
+www.gayvids.tv##div.nospot
+www.gayvids.tv##div.top-links
+www.gayvids.tv##div.videoflash
+www.gayvids.tv##p.text-tag
 www.good-gay.com##div.random-block
 www.good-gay.com##div.wrapper
 www.good-gay.tv##div.sub-video-random
-www.icegay.tv##[class*=“b-cookie is-open”]
-www.icegay.tv##[class*=“b-mobile-spots header-spot header-random”]
-www.icegay.tv##[class*=“b-tl-banner”]
-www.icegay.tv##[id*=“playlist-wrapper”]
+www.icegay.tv##.b-mobile-spots
+www.icegay.tv##.sub-video-random
+www.icegay.tv##[class*="b-cookie is-open"]
+www.icegay.tv##[class*="b-mobile-spots header-spot header-random"]
+www.icegay.tv##[class*="b-secondary-column__randoms"]
+www.icegay.tv##[class*="b-thumb-item js-thumb placeholder"]
+www.icegay.tv##[class*="b-tl-banner"]
+www.icegay.tv##[id*="playlist-wrapper"]
+www.icegay.tv###ticker
 www.icegay.tv##b
 www.icegay.tv##div.b-cookie__body.clearfix
 www.icegay.tv##div.b-cookie-mess.f-left
@@ -355,68 +442,133 @@ www.icegay.tv##span.b-cookie__close.f-right
 www.icegaytube.tv##div.b-mobile-spots.footer-spot
 www.icegaytube.tv##div.b-mobile-spots.header-spot.header-random
 www.icegaytube.tv##div.b-mobile-spots.under-video-spot.sub-video-random
-www.ido.com.tr##[class*=“boarding-pass-adver”]
-www.igayporn.tv##[class*=“b-cookie is-open”]
-www.igayporn.tv##[class*=“b-mobile-random-links”]
-www.igayporn.tv##[class*=“c-random”]
-www.igayporn.tv##[class*=“mobile-random header-spot header-random”]
-www.igayporn.tv##[class*=“top-link”]
+www.ido.com.tr##[class*="boarding-pass-adver"]
+www.igayporn.tv##.c-random
+www.igayporn.tv##.header-spot
+www.igayporn.tv##.sub-video-random
+www.igayporn.tv##[class*="b-cookie is-open"]
+www.igayporn.tv##[class*="b-mobile-random-links"]
+www.igayporn.tv##[class*="c-random"]
+www.igayporn.tv##[class*="mobile-random header-spot header-random"]
+www.igayporn.tv##[class*="top-link"]
+www.igayporn.tv###ticker
+www.igayporn.tv##a.top-link
 www.igayporn.tv##div.b-cookie__body.clearfix
 www.igayporn.tv##div.b-mobile-spots.footer-spot
+www.igayporn.tv##div.mobile-random.header-spot.header-random
 www.igayporn.tv##div.mobile-random.heder-spot.header-random
 www.igayporn.tv##div.sub-video-random
 www.machogaytube.com##div.b-mobile-spots.footer-spot
 www.machogaytube.com##div.b-spot-section.b-mobile-spots.header-spot.header-random
 www.machogaytube.com##div.sub-video-random
-www.machotube.tv##[class*=“b-cookie is-open”]
-www.machotube.tv##[class*=“b-cookie__body clearfix”]
-www.machotube.tv##[class*=“b-cookie-mess f-left”]
-www.machotube.tv##[class*=“b-randoms-col”]
-www.machotube.tv##[class*=“b-spot-section b-mobile-spots header-spot header-random”]
-www.machotube.tv##[class*=“top-link”]
-www.machotube.tv##[id*=“vast-url”]
+www.machotube.tv##.b-main-nav__mi
+www.machotube.tv##.b-mobile-spots-wrap
+www.machotube.tv##.b-spot-section
+www.machotube.tv##.sub-video-random
+www.machotube.tv##[class*="b-cookie is-open"]
+www.machotube.tv##[class*="b-cookie__body clearfix"]
+www.machotube.tv##[class*="b-cookie-mess f-left"]
+www.machotube.tv##[class*="b-randoms-col"]
+www.machotube.tv##[class*="b-spot-section b-mobile-spots header-spot header-random"]
+www.machotube.tv##[class*="b-thumb-item js-thumb placeholder"]
+www.machotube.tv##[class*="top-link"]
+www.machotube.tv##[id*="vast-url"]
+www.machotube.tv###ticker
 www.machotube.tv##div.b-mobile-spots.footer-spot
 www.machotube.tv##div.b-spot-section.b-mobile-spots.header-spot.header-random
 www.machotube.tv##div.sub-video-random
-www.mengem.com##[class*=“above-player-spot”]
-www.mengem.com##[class*=“list-sort”]
-www.mengem.com##[class*=“top”]
+www.mengem.com##[class*="above-player-spot"]
+www.mengem.com##[class*="list-sort"]
+www.mengem.com##[class*="top"]
 www.mengem.com###BGm-Nat-vip
 www.mengem.com##div.footer-margin
 www.mengem.com##div.sponsor
 www.mengem.com##div.table
-www.onlygayvideo.com##[class*=“sponsor”]
+www.onlygayvideo.com##[class*="sponsor"]
 www.onlygayvideo.com##div.box.tags-cloud
 www.onlygayvideo.com##div.placeHolder
 www.onlygayvideo.com##div.sidebar
 www.onlygayvideo.com##div.top-links
-www.onlygayvideo.com##div[class*=“footer”]
+www.onlygayvideo.com##div[class*="footer"]
 www.onlygayvideo.com##em
 www.onlygayvideo.com##p
-www.playvids.com##[class*=“block-advert”]
-www.playvids.com##[class*=“comments-wrapper “]
-www.playvids.com##[class*=“comments-wrapper have-comments”]
-www.pornhub.com##[class*=“ad-tabSplit”]
-www.pornhub.com##[class*=“adsbytrafficjunky”]
-www.pornhub.com##[class*=“buttonClass blackBtn eudsaLink”]
-www.pornhub.com##[class*=“clearfix noBottom”]
-www.pornhub.com##[class*=“mgp_adRollEventCatcher mgp_clickable”]
-www.pornhub.com##[class*=“middleAdContainer”]
-www.pornhub.com##[class*=“premiumPromoBannerWrapper”]
-www.pornhub.com##[class*=“watchpageAd”]
-www.pornhub.com##[class*=“ww1ilyfaa clearfix”]
-www.pornhub.com##[id*=“cookieBanner”]
-www.pornhub.com##[id*=“countryRedirectMessage”]
+www.playvids.com##.block-advert
+www.playvids.com##.comments-wrapper
+www.playvids.com##.fluid_controls_container_sponsored
+www.playvids.com##[class*="block-advert"]
+www.playvids.com##[class*="comments-wrapper "]
+www.playvids.com##[class*="comments-wrapper have-comments"]
+www.pornhub.com#.sniperModeEngaged
+www.pornhub.com#@#[src^="bLob:"]
+www.pornhub.com#@#[style] > div > iframe[width]:first-child
+www.pornhub.com#@#div > [style] iframe[width][height]
+www.pornhub.com##.ad-tabSplit
+www.pornhub.com##.adsbytrafficjunky
+www.pornhub.com##.b3napiklqtad
+www.pornhub.com##.bottomNav > a[rel="noopener nofollow"]
+www.pornhub.com##.ds849dwjii0ja8ad
+www.pornhub.com##.js_promoItem
+www.pornhub.com##.mgp_adRollEventCatcher
+www.pornhub.com##.mgp_overlayText
+www.pornhub.com##.middleVideoAdContainer
+www.pornhub.com##.mostPopularComment
+www.pornhub.com##.playerFlvContainer > div#pb_template[style]:style(position: absolute!important; left: -3000px!important;)
+www.pornhub.com##.realsex
+www.pornhub.com##.sectionWrapper > .videos[id] > li[class^="sniper"]:not(.videoblock):not(.videobox):not([id^="playlist_"])
+www.pornhub.com##.sectionWrapper:has(> #bottomVideos > .wrapVideoBlock)
+www.pornhub.com##.video-wrapper > div#player~div[class$=" hd clear"]:style(position: absolute!important; left: -3000px!important;)
+www.pornhub.com##.videoPremiumBlock
+www.pornhub.com##.wkl0ya4ad
+www.pornhub.com##[class*="ad-tabSplit"]
+www.pornhub.com##[class*="adsbytrafficjunky"]
+www.pornhub.com##[class*="buttonClass blackBtn eudsaLink"]
+www.pornhub.com##[class*="clearfix noBottom"]
+www.pornhub.com##[class*="mgp_adRollEventCatcher mgp_clickable"]
+www.pornhub.com##[class*="mgp_overlayText mgp_link mgp_noBorder mgp_closable"]
+www.pornhub.com##[class*="middleAdContainer"]
+www.pornhub.com##[class*="premiumPromoBannerWrapper"]
+www.pornhub.com##[class*="watchpageAd"]
+www.pornhub.com##[class*="ww1ilyfaa clearfix"]
+www.pornhub.com##[href*="?ats="]
+www.pornhub.com##[href*="data:"]
+www.pornhub.com##[href*="https://ads.trafficjunky.net/"]
+www.pornhub.com##[id*="cookieBanner"]
+www.pornhub.com##[id*="countryRedirectMessage"]
+www.pornhub.com##[id*="globalCookieBanner"]
+www.pornhub.com##[style*="base64"]
+www.pornhub.com###abAlert
 www.pornhub.com###cookieBanner
 www.pornhub.com###countryRedirectMessage
+www.pornhub.com###customSkin
+www.pornhub.com###customSkin.backgroundImg
+www.pornhub.com###customSkinCTA
+www.pornhub.com###hd-rightColVideoPage > .clearfix:first-child
+www.pornhub.com###main-container > .abovePlayer
+www.pornhub.com###pb_template
+www.pornhub.com###playerDiv_991593263378676208
+www.pornhub.com###singleFeedSection > .emptyBlockSpace
 www.pornhub.com##a.buttonClass.blackBtn.eudsaLink
+www.pornhub.com##a[data-event="header_paid_tabs"]
+www.pornhub.com##a[href*="?ats="]
+www.pornhub.com##a[href^="http://ads.trafficjunky.net/"]
+www.pornhub.com##a[href^="https://ads.trafficjunky.net/"]
+www.pornhub.com##a[href^="https://www.uviu.com"]
+www.pornhub.com##a[target="_blank"]
+www.pornhub.com##cbebe
 www.pornhub.com##div.adContainer.clearfix
 www.pornhub.com##div.adContainer.clearfix.ad-tabSplit
 www.pornhub.com##div.adContainer.clearfix.noBottom
 www.pornhub.com##div.bjghiycj0hwaa.clearfix.watchpageAd
+www.pornhub.com##div.footerContentWrapper
+www.pornhub.com##div.innerText
 www.pornhub.com##div.mostPopularComment
 www.pornhub.com##div.sxe5tmy28ddepefdjjm8aa.clearfix.watchpageAd
 www.pornhub.com##div.ygy5c4ybwibllz36paa.clearfix.noBottom
+www.pornhub.com##div[class="video-wrapper"] > .clear.hd:has(.adsbytrafficjunky)
+www.pornhub.com##iframe[width="950"]
+www.pornhub.com##img[src*="blob:" i]:not(video)
+www.pornhub.com##img[srcset]
+www.pornhub.com##img[width="300"]
 www.pornhub.com##ins.adsbytrafficjunky
 www.redtube.com##a.tabs_addon
 www.xnxx.com###ad-footer
@@ -430,11 +582,11 @@ www.xnxx.com##div.mozaique
 www.xnxx.com##div.thumb-under
 www.xnxx.com##span.mobile-only-hide
 www.xnxx.com##span.remove-ads-link
-www.xvideos.com##[class*=“mobile-hide exo-ad-ins-container is-filled ad-support-desktop”]
-www.xvideos.com##[class*=“ntv736F2364fFD36B6b0933DFC6b9D83C11”]
-www.xvideos.com##[class*=“thumb-block video-ad video-ad-support-mobile tb_full_init”]
-www.xvideos.com##[id*=“ad-header-mobile-contener”]
-www.xvideos.com##[id*=“tabComments_bottom_page”]
+www.xvideos.com##[class*="mobile-hide exo-ad-ins-container is-filled ad-support-desktop"]
+www.xvideos.com##[class*="ntv736F2364fFD36B6b0933DFC6b9D83C11"]
+www.xvideos.com##[class*="thumb-block video-ad video-ad-support-mobile tb_full_init"]
+www.xvideos.com##[id*="ad-header-mobile-contener"]
+www.xvideos.com##[id*="tabComments_bottom_page"]
 www.xvideos.com###ad-footer
 www.xvideos.com##div.botLinks
 www.xvideos.com##div.terms
@@ -442,16 +594,25 @@ www.xvideos.com##p.slogan
 www.xvideos.com##span.mark
 www.xvideos.com##span.mobile-only-hide
 www.xvideos.com##span.remove-ads-link
-xvideos.com##[class*=“thumb-ad”]
-xvidgay.com##[class*=“col-md-grid inline-banner text-center post”]
-xvidgay.com##[class*=“comments-area”]
-xvidgay.com##[class*=“gmr-banner-aftercontent”]
-xvidgay.com##[class*=“gmr-befplayerbanner text-center”]
-xvidgay.com##[class*=“gmr-footerbanner text-center”]
-xvidgay.com##[class*=“video_content_wrapper”]
-xvidgay.com##[class*=“widget widget_block”]
-xvidgay.com##[class*=video_content_wrapper]
+xozilla.com##a[href*="?ats="]
+xvideos.com##[class*="thumb-ad"]
+xvideos.com##[href*="data:"]
+xvideos.com##img[src*="blob:" i]:not(video)
+xvidgay.com##[class*="col-md-grid inline-banner text-center post"]
+xvidgay.com##[class*="comments-area"]
+xvidgay.com##[class*="gmr-banner-aftercontent"]
+xvidgay.com##[class*="gmr-befplayerbanner text-center"]
+xvidgay.com##[class*="gmr-footerbanner text-center"]
+xvidgay.com##[class*="video_content_wrapper"]
+xvidgay.com##[class*="widget widget_block"]
 xvidgay.com###exo-mobile-im-container-wrapper
 xvidgay.com###video-share
 xvidgay.com##div.a2a_kit.a2a_kit_size_32.a2a_default_style
 xvidgay.com##div.happy-footer-mobile
+xxxymovies.com##a[href*="?ats="]
+youjizz.com##[href*="data:"]
+youjizz.com##[style*="base64"]
+youjizz.com##img[src*="blob:" i]:not(video)
+youporn.com##[href*="data:"]
+youporn.com##[style*="base64"]
+youporn.com###pb_template
